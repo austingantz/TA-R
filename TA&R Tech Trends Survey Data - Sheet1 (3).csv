@@ -1,0 +1,78 @@
+Area,Capability,Status,%
+SRE,AI Ops,Piloting/Testing,31%
+SRE,Automated On-Call Support,Reached Viability,38%
+SRE,Pre Mortem,Piloting/Testing,15%
+SRE,Blameless Post Mortem,Reached Viability,46%
+SRE,Chaos Testing / Engineering,Reached Viability,46%
+SRE,Customer SLO,Piloting/Testing,23%
+SRE,Feature Flags,Reached Viability,31%
+SRE,Observability,Mainstream Adoption,54%
+SRE,Psychological Safety,Piloting/Testing,23%
+SRE,Reliable Experiments,Piloting/Testing,38%
+SRE,Resilience Design Patterns,Mainstream Adoption,38%
+SRE,Toil Management,Piloting/Testing,23%
+SRE,Capacity Management,Reached Viability,23%
+SRE,Configuration Management,Mainstream Adoption,62%
+SRE,Synthetic Monitoring,Piloting/Testing,23%
+SRE,Infrastructure Open Telemetry,Piloting/Testing,31%
+SRE,Cloud Finops,Reached Viability,23%
+Platform Engineering,Balancing Team Cognitive Load,Piloting/Testing,46%
+Platform Engineering,CI / CD Platform,Mainstream Adoption,77%
+Platform Engineering,Cloud Enablement Platform,Mainstream Adoption,38%
+Platform Engineering,Developer Low Code Tooling,Reached Viability,15%
+Platform Engineering,Internal Developer Platform / Golden Path,Reached Viability,15%
+Platform Engineering,Internal Q&A for Developers,Piloting/Testing,23%
+Platform Engineering,Environment-as-a-Service,Reached Viability,23%
+Platform Engineering,Developer Experience (DX),Piloting/Testing,38%
+Platform Engineering,Infrastructure Control Plane(s),Reached Viability,38%
+Platform Engineering,Kubernetes Control Plane(s),Reached Viability,38%
+Platform Engineering,Monitoring as a Platform,Reached Viability,31%
+Platform Engineering,Open Source Monitoring,Reached Viability,46%
+Platform Engineering,Open Source Registry,Reached Viability,31%
+Platform Engineering,Platform as a Product (platform?),Reached Viability,23%
+Platform Engineering,Platform Orchestrator,Mainstream Adoption,46%
+Platform Engineering,Self-Service Developer Platforms,Piloting/Testing,31%
+Platform Engineering,Monitoring as a code,Piloting/Testing,31%
+Platform Engineering,Hybrid/Multicloud Architecture,Reached Viability,31%
+Platform Engineering,Application Open Telemetry Instrumentation,Piloting/Testing,38%
+Modern Engineering,Agile Development,Mainstream Adoption,69%
+Modern Engineering,AI Pair Programming,Experimental,46%
+Modern Engineering,Pair Programming,Declining,46%
+Modern Engineering,Cloud Computing,Mainstream Adoption,85%
+Modern Engineering,Containerization,Mainstream Adoption,62%
+Modern Engineering,Docs-as-code,Reached Viability,23%
+Modern Engineering,Tech Product Catalog,Piloting/Testing,31%
+Modern Engineering,Infrastructure as Code (IaC),Mainstream Adoption,69%
+Modern Engineering,Lean and Kaizen (continuous improvement),Mainstream Adoption,46%
+Modern Engineering,Microservices,Mainstream Adoption,62%
+Modern Engineering,Serverless,Reached Viability,38%
+Modern Engineering,SDLC Orchestration,Mainstream Adoption,85%
+Modern Engineering,Version Control,Mainstream Adoption,85%
+Modern Engineering,Sovereign Cloud Architecture,Experimental,15%
+Modern Engineering,AI Driven Testing,Experimental,23%
+Modern Engineering,Policy as Code,Piloting/Testing,15%
+Modern Engineering,Org design/socio tech design,Mainstream Adoption,15%
+Modern Engineering,Flow Engineering,Piloting/Testing,15%
+Modern Engineering,Wardley Mapping,Reached Viability,8%
+Modern Engineering,Sustainable Development,Piloting/Testing,8%
+Modern Engineering,Inclusive Development,Piloting/Testing,8%
+Modern Engineering,Automated accessibility testing,Piloting/Testing,8%
+Modern Engineering,Carbon Efficency,Experimental,62%
+DevOps,Automated Compliance,Piloting/Testing,31%
+DevOps,Automated Functional Testing,Mainstream Adoption,62%
+DevOps,Automated Security Testing,Reached Viability,23%
+DevOps,Automated Performance Testing,Reached Viability,15%
+DevOps,Automated Release Management,Reached Viability,31%
+DevOps,Automated Unit Testing,Mainstream Adoption,62%
+DevOps,Behavior Driven Development,Experimental,8%
+DevOps,Test Driven Development,Piloting/Testing,15%
+DevOps,Central Metrics Store,Reached Viability,31%
+DevOps,Container Orchestration,Mainstream Adoption,62%
+DevOps,Container Registry,Mainstream Adoption,54%
+DevOps,Continuous Delivery,Mainstream Adoption,62%
+DevOps,Continuous Integration,Mainstream Adoption,77%
+DevOps,Domain Driven Design & Development,Reached Viability,38%
+DevOps,SBOM,Experimental,38%
+DevOps,Value Stream Management,Piloting/Testing,23%
+DevOps,Secrets Management,Mainstream Adoption,23%
+DevOps,Software engineering intelligent platform,Piloting/Testing,8%
